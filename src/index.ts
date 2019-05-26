@@ -1,4 +1,3 @@
-import { Hello } from './Hello';
+import { MultiplicativePersistence } from './MultiplicativePersistence';
 
-const hello = new Hello();
-hello.sayHello();
+const mp = new MultiplicativePersistence();
